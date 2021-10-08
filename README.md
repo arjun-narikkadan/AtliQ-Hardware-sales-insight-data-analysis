@@ -1,4 +1,4 @@
-# sales-insight-data-analysis
+# AtliQ Hardwares  sales-insight-data-analysis
 Sales Insights Data Analysis Project
 
  Atliq hardware is facing a lot of challenges the market is growing dynamically and the sales is going down so as  a data analyst I am going to analyse the data and build a report which  can acessed from anywhere even from a smartphone 
